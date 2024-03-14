@@ -1,0 +1,25 @@
+
+.nav-link:hover {
+    color: black;
+    margin-top: -1.5px;
+}
+
+.nav-hover:hover{
+    margin-top: 0px;
+}
+
+body{
+   
+    padding-top: 76px;
+}
+
+#home-quote{
+    background: url('../img/bg-quote.jpg') center center;
+    background: cover;
+}
+
+@media(max-width:767px){
+    #home-quote .display-4{
+        font-size: 2.2rem;
+    } 
+}
