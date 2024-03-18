@@ -23,3 +23,17 @@ body{
         font-size: 2.2rem;
     } 
 }
+
+
+.preview-container {
+    width: 400px; /* largura da prévia */
+    height: 350px; /* altura da prévia */
+    border: 1px solid #ccc; /* borda para visualização */
+    overflow: hidden; /* esconde barras de rolagem */
+}
+
+.preview-iframe {
+    width: 500px; /* ocupar largura total do container */
+    height: 350px; /* ocupar altura total do container */
+    border: none; /* sem borda */
+  }
