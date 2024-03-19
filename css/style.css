@@ -37,3 +37,11 @@ body{
     height: 350px; /* ocupar altura total do container */
     border: none; /* sem borda */
   }
+
+.lista-plano li+li{
+    border-top: 1px solid rgba(0, 0, 0, .2);
+}
+.lista-plano li{
+    
+    padding: 1rem;
+}  
