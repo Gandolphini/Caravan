@@ -1,5 +1,5 @@
 # Caravan
-Pequeno projeto web feito com bootstrap
+Pequeno projeto web feito com Bootstrap
 
 ##### Link para visualização do projeto: https://gandolphini.github.io/Caravan/
 
